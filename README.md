@@ -1,4 +1,4 @@
-# Butcher Hero Editör / Butcher Hero Editor
+# Butcher Hero Editör v2 / Butcher Hero Editor v2
 
 Butcher Hero (Android) için promosyon kodu ve kayıt düzenleme aracı.
 
@@ -16,7 +16,7 @@ Butcher Hero (Android) için tarayıcıda çalışan küçük bir araç. İki i�
 1. **Bugünün promosyon kodunu gösterir.** Dünyanın neresinde olursan ol, o an oyunda çalışan kodu gösterir. Tek dokunuşla kopyalanır.
 2. **Oyunun kayıt dosyasını (`game_data.bin`) düzenler.** Dosyayı açar, değerleri gösterir. İstediğini değiştirirsin ve oyunun kabul ettiği yeni dosyayı indirirsin.
 
-Hiçbir şey kurman gerekmez. Sayfa tamamen telefonunda çalışır, kayıt dosyan hiçbir yere gönderilmez.
+Hiçbir şey kurman gerekmez. Sayfa tamamen telefonunda çalışır, kayıt dosyan hiçbir yere gönderilmez. Sadece sayfanın kaç kez açıldığı sayılır (GoatCounter).
 
 ### Neleri düzenleyebilirsin
 
@@ -77,7 +77,7 @@ A small browser tool for Butcher Hero (Android). It does two things:
 1. **Shows today's promo code.** Wherever you are in the world, it shows the code that works in the game right now. One tap copies it.
 2. **Edits the game's save file (`game_data.bin`).** It opens the file and shows the values. You change what you want and download a new file the game accepts.
 
-Nothing to install. The page runs entirely on your phone; your save file is never uploaded anywhere.
+Nothing to install. The page runs entirely on your phone; your save file is never uploaded anywhere. Only page visits are counted (GoatCounter).
 
 ### What you can edit
 
