@@ -26,6 +26,8 @@ Hiçbir şey kurman gerekmez. Sayfa tamamen telefonunda çalışır, kayıt dosy
 | Ruhlar | Sıradan, büyük, dev, elit, yüce, ilahi ve kaotik ruh miktarları. |
 | Materyaller | Büyü tozu, jeot ve büyü taşı. |
 | Demirci | Eşya bileme karakterini açar. Demirci parası da buradan ayarlanır. |
+| Mitik eşyalar | 11 mitik eşyayı (3 silah, kask, kalkan, 6 aksesuar) tek tek ekler veya çıkarır ve seviyelerini ayarlar. |
+| Karakter | Vuruş gücü, can, can çalma, can yenilenmesi, kritik şansı, kritik hasarı, kaçınma ve yürüme hızı. |
 | Satın alımlar | Reklamsız, Ruh bileti, Kristal bileti ve Kaotik ruh teklifi. |
 | Etkinlik jetonları | Etkinlik süresini satın almadan, jeton harcayarak uzatmanı sağlar. |
 | Sıfırlamalar | Günlük VIP sandığını hemen açılabilir yapar, tükenmiş canavar ve ağaç noktalarını doldurur. |
@@ -61,6 +63,7 @@ Değiştirmek istediğin sayıları yaz, açmak istediklerinin düğmesini aç. 
 ### Önemli
 
 - Düzenlemeden önce mutlaka yedek al.
+- Karakter değerlerine çok büyük sayılar girmek oyunu bozabilir.
 - Bu araç resmî değildir, oyunun geliştiricisiyle bir bağı yoktur. Kişisel ve tek oyunculu kullanım içindir. Sorumluluk kullanana aittir.
 - Oyun sunucudan veri çekerse (bulut kaydı, A/B testleri) bazı değişiklikler geri dönebilir.
 - Araç Android içindir. iPhone'da oyunun kayıt dosyasına erişilemez.
@@ -84,6 +87,8 @@ Nothing to install. The page runs entirely on your phone; your save file is neve
 | Souls | Common, large, huge, elite, great, divine and chaotic souls. |
 | Materials | Magic dust, geodes and enchantment stones. |
 | Blacksmith | Unlocks the item-sharpening character. Blacksmith coins are set here too. |
+| Mythic items | Adds or removes each of the 11 mythic items (3 weapons, helmet, shield, 6 accessories) and sets their level. |
+| Character | Hit power, health, lifesteal, health regen, crit chance, crit damage, evasion and walk speed. |
 | Purchases | No Ads, Soul Pass, Crystal Pass and the Chaotic Soul offer. |
 | Event booster tokens | Lets you extend an event's time by spending a token instead of buying it. |
 | Resets | Makes the daily VIP chest ready now and refills depleted monster and tree spawners. |
@@ -119,6 +124,7 @@ Type the numbers you want and switch on what you want unlocked. Anything you don
 ### Important
 
 - Always make a backup before editing.
+- Very large character values may break the game.
 - This tool is unofficial and not affiliated with the game's developer. It is meant for personal, single-player use, at your own risk.
 - If the game pulls data from its server (cloud save, A/B tests), some changes may be reverted.
 - The tool is for Android. On iPhone the game's save file can't be reached.
