@@ -25,8 +25,9 @@ Hiçbir şey kurman gerekmez. Sayfa tamamen telefonunda çalışır, kayıt dosy
 | Elmas ve VIP puanı | Elmas miktarını ve VIP seviyeni belirler (8.000 puan = VIP 10). |
 | Ruhlar | Sıradan, büyük, dev, elit, yüce, ilahi ve kaotik ruh miktarları. |
 | Materyaller | Büyü tozu, jeot ve büyü taşı. |
+| Adalar | İstediğin adaya kadar bütün adaları tek dokunuşla açar (17 ada). |
 | Demirci | Eşya bileme karakterini açar. Demirci parası da buradan ayarlanır. |
-| Mitik eşyalar | 11 mitik eşyayı (3 silah, kask, kalkan, 6 aksesuar) tek tek ekler veya çıkarır ve seviyelerini ayarlar. |
+| Mitik eşyalar | 11 mitik eşyayı (3 silah, kask, kalkan, 6 aksesuar) tek tek ekler veya çıkarır, seviyelerini istediğin gibi ayarlar. |
 | Karakter | Vuruş gücü, can, can çalma, can yenilenmesi, kritik şansı, kritik hasarı, kaçınma ve yürüme hızı. |
 | Satın alımlar | Reklamsız, Ruh bileti, Kristal bileti ve Kaotik ruh teklifi. |
 | Etkinlik jetonları | Etkinlik süresini satın almadan, jeton harcayarak uzatmanı sağlar. |
@@ -86,8 +87,9 @@ Nothing to install. The page runs entirely on your phone; your save file is neve
 | Gems and VIP points | Sets your gem balance and VIP level (8,000 points = VIP 10). |
 | Souls | Common, large, huge, elite, great, divine and chaotic souls. |
 | Materials | Magic dust, geodes and enchantment stones. |
+| Islands | Unlocks every island up to the one you tap (17 islands). |
 | Blacksmith | Unlocks the item-sharpening character. Blacksmith coins are set here too. |
-| Mythic items | Adds or removes each of the 11 mythic items (3 weapons, helmet, shield, 6 accessories) and sets their level. |
+| Mythic items | Adds or removes each of the 11 mythic items (3 weapons, helmet, shield, 6 accessories) and sets any level you want. |
 | Character | Hit power, health, lifesteal, health regen, crit chance, crit damage, evasion and walk speed. |
 | Purchases | No Ads, Soul Pass, Crystal Pass and the Chaotic Soul offer. |
 | Event booster tokens | Lets you extend an event's time by spending a token instead of buying it. |
