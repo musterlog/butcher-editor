@@ -1,4 +1,4 @@
-# Butcher Hero Editör v2 / Butcher Hero Editor v2
+# Butcher Hero Editör v3 / Butcher Hero Editor v3
 
 Butcher Hero (Android) için promosyon kodu ve kayıt düzenleme aracı.
 
@@ -16,6 +16,8 @@ Butcher Hero (Android) için tarayıcıda çalışan küçük bir araç. İki i�
 1. **Bugünün promosyon kodunu gösterir.** Dünyanın neresinde olursan ol, o an oyunda çalışan kodu gösterir. Tek dokunuşla kopyalanır.
 2. **Oyunun kayıt dosyasını (`game_data.bin`) düzenler.** Dosyayı açar, değerleri gösterir. İstediğini değiştirirsin ve oyunun kabul ettiği yeni dosyayı indirirsin.
 
+Sayfa 8 dilde kullanılabilir: Türkçe, İngilizce, Almanca, Fransızca, İtalyanca, Lehçe, Rusça ve Korece. Dil, telefonunun diline göre kendiliğinden seçilir, üstteki menüden değiştirilebilir.
+
 Hiçbir şey kurman gerekmez. Sayfa tamamen telefonunda çalışır, kayıt dosyan hiçbir yere gönderilmez. Sadece sayfanın kaç kez açıldığı sayılır (GoatCounter).
 
 ### Neleri düzenleyebilirsin
@@ -31,7 +33,7 @@ Hiçbir şey kurman gerekmez. Sayfa tamamen telefonunda çalışır, kayıt dosy
 | Karakter | Vuruş gücü, can, can çalma, can yenilenmesi, kritik şansı, kritik hasarı, kaçınma ve yürüme hızı. |
 | Satın alımlar | Reklamsız, Ruh bileti, Kristal bileti ve Kaotik ruh teklifi. |
 | Etkinlik jetonları | Etkinlik süresini satın almadan, jeton harcayarak uzatmanı sağlar. |
-| Sıfırlamalar | Günlük VIP sandığını hemen açılabilir yapar, tükenmiş canavar ve ağaç noktalarını doldurur. |
+| Sıfırlamalar | Günlük VIP sandığını hemen açılabilir yapar, tükenmiş canavar ve ağaç noktalarını doldurur, promosyon kodu hakkını yeniler. |
 
 ### Nasıl kullanılır
 
@@ -59,7 +61,8 @@ Değiştirmek istediğin sayıları yaz, açmak istediklerinin düğmesini aç. 
 
 - Oyun, kodun tarihini dünya saatine (UTC) göre kontrol eder. Bu yüzden aynı anda her ülkede aynı kod çalışır.
 - Sayfa, açtığın anda çalışan ve en uzun süre geçerli kalacak kodu gösterir. Sayfa açık kaldıkça kod kendiliğinden yenilenir.
-- Her kod hesap başına bir kez kullanılır.
+- Sayfa her zaman şu an geçerli iki kodu gösterir, ikisi de çalışır.
+- **Oyun her hesaba ömür boyu yalnızca bir promosyon kodu kullandırır.** Bir kod kullandıktan sonra diğer bütün kodlar "geçersiz" görünür. Yeni bir kod girmek için editörde Sıfırlamalar bölümündeki "Promosyon kodu hakkı" düğmesini açıp kaydı telefona geri yükle.
 
 ### Önemli
 
@@ -78,6 +81,8 @@ A small browser tool for Butcher Hero (Android). It does two things:
 1. **Shows today's promo code.** Wherever you are in the world, it shows the code that works in the game right now. One tap copies it.
 2. **Edits the game's save file (`game_data.bin`).** It opens the file and shows the values. You change what you want and download a new file the game accepts.
 
+The page is available in 8 languages: Turkish, English, German, French, Italian, Polish, Russian and Korean. It picks your phone's language automatically, and you can change it from the menu at the top.
+
 Nothing to install. The page runs entirely on your phone; your save file is never uploaded anywhere. Only page visits are counted (GoatCounter).
 
 ### What you can edit
@@ -93,7 +98,7 @@ Nothing to install. The page runs entirely on your phone; your save file is neve
 | Character | Hit power, health, lifesteal, health regen, crit chance, crit damage, evasion and walk speed. |
 | Purchases | No Ads, Soul Pass, Crystal Pass and the Chaotic Soul offer. |
 | Event booster tokens | Lets you extend an event's time by spending a token instead of buying it. |
-| Resets | Makes the daily VIP chest ready now and refills depleted monster and tree spawners. |
+| Resets | Makes the daily VIP chest ready now, refills depleted monster and tree spawners, and resets your promo code use. |
 
 ### How to use
 
@@ -121,7 +126,8 @@ Type the numbers you want and switch on what you want unlocked. Anything you don
 
 - The game checks a code's date against world time (UTC), so the same code works in every country at the same moment.
 - The page shows the code that works when you open it and stays valid the longest. While the page is open, the code updates by itself.
-- Each code works once per account.
+- The page always shows the two codes that work right now; either one works.
+- **The game lets each account redeem only one promo code, ever.** After that, every other code shows as "invalid". To enter a new one, switch on "Promo code use" under Resets in the editor and put the save back on your phone.
 
 ### Important
 
